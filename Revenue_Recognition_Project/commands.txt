@@ -1,0 +1,4 @@
+streamlit run shipment_delay_dashboard.py
+
+
+python train_model.py
