@@ -1,6 +1,0 @@
-cd "C:\Users\vinna\OneDrive\Documents\Jupyter Notebook Projects\NVidia"
-set NVIDIA_API_KEY="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"
-conda create -n .\data_analysis_agent.py python=3.10
-conda activate .\data_analysis_agent.py
-pip install -r requirments.txt
-streamlit run data_analysis_agent.py
